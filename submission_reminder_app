@@ -5,10 +5,10 @@
 "   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
 "   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
 " ==============================================================================
-../                                            0 Fri 04 Oct 2024 08:35:27 AM PDT                                                                                        
-./                                             0 Fri 04 Oct 2024 08:36:21 AM PDT
-app/                                           0 Fri 04 Oct 2024 07:44:14 AM PDT
-assets/                                        0 Fri 04 Oct 2024 07:46:50 AM PDT
-config/                                        0 Fri 04 Oct 2024 07:33:13 AM PDT
-modules/                                       0 Fri 04 Oct 2024 07:33:13 AM PDT
-startup.sh*   
+../                                                                                                                                                                     
+./
+app/
+assets/
+config/
+modules/
+startup.sh*
